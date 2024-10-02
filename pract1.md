@@ -21,6 +21,7 @@
 139 hip
 138 manet
 ```
+![Image alt](https://github.com/bybybybebebe/kiscm/blob/main/1.2.png)
 
 ## Задача 3
 
@@ -34,6 +35,7 @@
 ```
 
 Перед отправкой решения проверьте его в ShellCheck на предупреждения.
+![Image alt](https://github.com/bybybybebebe/kiscm/blob/main/1.3.png)
 
 ## Задача 4
 
@@ -44,6 +46,7 @@
 ```
 h hello include int main n printf return stdio void world
 ```
+![Image alt](https://github.com/bybybybebebe/kiscm/blob/main/1.4.png)
 
 ## Задача 5
 
@@ -56,6 +59,7 @@ h hello include int main n printf return stdio void world
 ```
 
 В результате для banner задаются правильные права доступа и сам banner копируется в /usr/local/bin.
+![Image alt](https://github.com/bybybybebebe/kiscm/blob/main/1.5.png)
 
 ## Задача 6
 
